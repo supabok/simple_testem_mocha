@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - "0.11"
+  - "0.10"
+
+src_files:
+	- chai.js
+    - hello.js
+    - tests.js
+
+launchers:
+    CI:
+        command: mocha --timeout 3000 tests.js -R tap
+        protocol: tap
+launch_in_ci:
+    - CI
