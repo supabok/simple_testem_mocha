@@ -4,7 +4,7 @@
     "description": "",
     "main": "",
     "scripts": {
-        "test": "node tests.js"
+        "test": "mocha tests.js"
     },
     "keywords": [
         "jenkins"
