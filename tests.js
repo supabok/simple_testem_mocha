@@ -9,7 +9,7 @@ if (typeof require !== 'undefined'){
 describe('hello', function(){
 
     it('should say hello', function(){
-        expect(hello()).to.equal('hello world');
+        expect(hello()).to.equal('hell world');
     });
 
     it('should say hello to person', function(){
