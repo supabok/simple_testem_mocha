@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "version": "0.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+
+    },
+    "keywords": [
+        "jenkins"
+    ],
+    "author": "supabok",
+    "license": "MIT",
+    "devDependencies": {
+        "testem":"latest"
+    }
+}
