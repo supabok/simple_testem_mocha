@@ -12,6 +12,7 @@
     "author": "supabok",
     "license": "MIT",
     "devDependencies": {
-        "testem":"latest"
+        "testem":"latest",
+        "chai":"latest"
     }
 }
